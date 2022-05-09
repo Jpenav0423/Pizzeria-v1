@@ -1,0 +1,31 @@
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.exe.config
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.exe
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.pdb
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csprojAssemblyReference.cache
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.Form1.resources
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.Properties.Resources.resources
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csproj.GenerateResource.cache
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.exe
+D:\PROGRAMAS C#\I Parcial\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.pdb
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.exe.config
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.exe
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.pdb
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.Form1.resources
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.Properties.Resources.resources
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.exe
+C:\Users\pc\Desktop\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.pdb
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.exe.config
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.exe
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\bin\Debug\TrabajoGrupal2.pdb
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csproj.AssemblyReference.cache
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.Form1.resources
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.Properties.Resources.resources
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csproj.GenerateResource.cache
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.csproj.CoreCompileInputs.cache
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.exe
+C:\Users\jdpen\OneDrive\Jefry\UNI\2021\I PER 2021\Programacion Entornos Visuales\Ejercicios\TrabajoGrupal2\TrabajoGrupal2\obj\Debug\TrabajoGrupal2.pdb
